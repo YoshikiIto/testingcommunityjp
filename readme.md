@@ -1,4 +1,4 @@
-# testingcommunityjpガイドライン（draft）
+# testingcommunityjpガイドライン
 
 ## このコミュニティについて
 - テストに関する情報交換をカジュアルに行いたい！という人のためのコミュニティです。
