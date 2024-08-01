@@ -8,7 +8,7 @@
 テストに興味のある方であればどなたでもご参加いただけます。
 以下のリンクから登録してください。
 
-[TestingCommunityJP](https://join.slack.com/t/testingcommunityjp/shared_invite/enQtMzQxNzM3ODg1NzYxLTA4MDkzMjJjMmIwNjM0OTBiMWU3YzdlMTUxYzVlOTQwYjVjOGY4MTY0YzRjZTQ2Mzc2Mjk2MjdmZjQ3NGJmNzU)
+https://join.slack.com/t/testingcommunityjp/shared_invite/zt-4czpww8x-ZSS3Hv~D4APcSTjxfFJOjw
 
 ### 参加したら
 まずは#welcomeにて初めましてのご挨拶をオススメしています。
